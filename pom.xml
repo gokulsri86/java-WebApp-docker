@@ -11,12 +11,11 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <packaging>war</packaging>  
   
   <name>Maven Web Application</name>
-	<url>http://sritechnologies.com</url>
+ <url>http://sritechnologies.com</url>
 	
-	<description>Maven Web Project</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
+		<name>Sri Technologies</name>
 		<url>http://sritechnologies.com/</url>
 	</organization> 
   
